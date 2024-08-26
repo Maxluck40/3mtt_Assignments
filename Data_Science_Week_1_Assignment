@@ -1,1 +1,38 @@
+#Basic Statistics Calculator
+def calculate_statistics(numbers):
+    if not numbers:
+        return None
+    
+    total = sum(numbers)
+    count = len(numbers)
+    average = total / count
+    minimum = min(numbers)
+    maximum = max(numbers)
+
+    return {
+        'sum': total,
+        'average': average,
+        'min': minimum,
+        'max': maximum
+    }
+
+# Example usage:
+numbers = [10, 20, 30, 40, 50]
+stats = calculate_statistics(numbers)
+if stats:
+    print(f"Sum: {stats['sum']}")
+    print(f"Average: {stats['average']}")
+    print(f"Min: {stats['min']}")
+    print(f"Max: {stats['max']}")
+else:
+    print("The list is empty.")
+
+#Integer to Float Converter
+def int_to_float(integer_value):
+    return float(integer_value)
+
+# Example usage:
+integer_value = 42
+converted_value = int_to_float(integer_value)
+print(f"The float value of {integer_value} is {converted_value}")
 
