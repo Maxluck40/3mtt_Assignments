@@ -1,6 +1,3 @@
-Here's a sample README for your GitHub repository:
-
-
 3MTT Data Science Track Assignments
 
 
