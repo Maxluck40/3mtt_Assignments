@@ -42,6 +42,10 @@ Assignments
 - https://github.com/Maxluck40/3mtt_Assignments/blob/main/Data_Science_Week_1_Assignment
 - https://github.com/Maxluck40/3mtt_Assignments/blob/main/Data_Science_Week_2_Assignment.ipyn
 - https://github.com/Maxluck40/3mtt_Assignments/blob/main/Data_Science_Week_3_Assignment.ipynb
+- https://github.com/Maxluck40/3mtt_Assignments/blob/main/Data_Science_Week_4_Assignment.ipynb
+- https://github.com/Maxluck40/3mtt_Assignments/blob/main/Data_Science_Week_5_Assignment.ipynb
+- https://github.com/Maxluck40/3mtt_Assignments/blob/main/Data_Science_Week_6_Assignment.ipynb
+
 
 
 
