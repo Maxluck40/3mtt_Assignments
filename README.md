@@ -55,7 +55,7 @@ Assignments
 
 Projects
 
-- projects/project1
+- [projects/project1](https://github.com/Maxluck40/3mtt_Assignments/tree/main/Capstone_Project)
 - projects/project2
 
 
